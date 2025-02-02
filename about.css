@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #a7c957;
+}
+
+.about p {
+    top:10px ;
+    font-size: 25px;
+    line-height: 35px;
+
+
+}
