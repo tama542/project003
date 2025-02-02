@@ -19,9 +19,7 @@ body {
     font-weight: bold;
 }
 
-body ::before {
-    opacity: 0;
-}
+
 
 
 img {
