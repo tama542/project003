@@ -58,7 +58,7 @@ img {
     background-color: #c7f9cc;
     width: 100%;
     position: fixed;
-    opacity: 0.9;
+    opacity: 1;
     height: 110px;
 
 }
@@ -127,7 +127,7 @@ img {
 
 }
 
-.hero-text h3 {
+.hero-text h3:hover {
     font-size: 46px;
     font-weight: bold;
     text-transform: uppercase;
@@ -137,6 +137,8 @@ img {
     transition-timing-function: ease-out;
 
 }
+
+
 
 
 .dropdown {
@@ -212,5 +214,15 @@ img {
     margin: 5px;
 
   }
+
+  .footer {
+    background-color:#a7c957;
+    color: azure;
+    padding: 50px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
 
 
